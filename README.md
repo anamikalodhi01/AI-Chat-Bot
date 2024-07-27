@@ -1,25 +1,33 @@
-# Chat-Bot using LLMs
+# Chat Bot using LLMs
 
 ## Overview
-This project implements a chatbot using the Gemini Pro API, allowing users to interact with a large language model. The chatbot is designed to respond to user queries in a natural and coherent manner. The frontend is built using Streamlit.
-
-## Introduction
-The GenAI ChatBot is designed to leverage the power of Google's Gemini API to provide intelligent and context-aware responses. By integrating with streamlit, the ChatBot offers a user-friendly interface that allows seamless interaction with users.
+This project implements a chatbot that can interact with users in a natural and coherent manner using a large language model (LLM) such as Gemini Pro. The chatbot is designed to understand and respond to a wide range of user queries, providing intelligent and context-aware interactions.
 
 ## Installed modules 
 **streamlit**
-os
-python-dotenv
-google-generativeai
+**os**
+**python-dotenv**
+**google-generativeai**
 
 ## Features
-Natural Language Processing: Utilizes Google Gemini API for understanding and generating human-like responses.
-Interactive Interface: Built with streamlit for a responsive and user-friendly experience.
-Environment Configuration: Uses python-dotenv for managing environment variables securely.
+**Natural Language Processing: Utilizes LLMs to understand and generate human-like responses.**
+**Interactive Conversations: Capable of maintaining context-aware and coherent dialogue with users.**
+**Customizable Responses: Allows customization to cater to specific user needs or domains.**
+
+## Project Objectives
+**Develop a chatbot that uses a large language model to interact naturally with users.**
+**Ensure the chatbot can handle various user queries with appropriate and intelligent responses.**
+**Provide a seamless user experience with coherent and context-aware interactions.**
+
+## Technical Details
+**Large Language Models (LLMs): Utilizes advanced models like Gemini Pro to deliver high-quality conversational experiences.**
+**Customizable Framework: Built to allow easy integration and customization for various applications and domains.**
+**Scalable Architecture: Designed to handle multiple concurrent interactions efficiently.**
 
 ## Interact with the Chatbot
    Open your web browser and go to http://localhost:8501/
-   Type your question in the input field and click "Submit" to get a response from the chatbot.
+   Type your question or message in the input field to start the conversation. 
+   The chatbot will respond based on the input and context of the dialogue.
 
 ## Screen Recording of the ChatBot
 
