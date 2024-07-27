@@ -25,7 +25,7 @@ This project implements a chatbot that can interact with users in a natural and 
 - **Scalable Architecture: Designed to handle multiple concurrent interactions efficiently.**
 
 ## Interact with the Chatbot
-- **Open your web browser and go to http://localhost:8501/**
+- **Open your web browser and go to http://192.168.63.179:8501**
 - **Type your question or message in the input field to start the conversation.**
 - **The chatbot will respond based on the input and context of the dialogue.**
 
