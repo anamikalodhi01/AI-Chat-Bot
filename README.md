@@ -1,7 +1,7 @@
 # Chat Bot using LLMs
 
 ## Overview
-#### This project implements a chatbot that can interact with users in a natural and coherent manner using a large language model (LLM) such as Gemini Pro. The chatbot is designed to understand and respond to a wide range of user queries, providing intelligent and context-aware interactions.
+##### This project implements a chatbot that can interact with users in a natural and coherent manner using a large language model (LLM) such as Gemini Pro. The chatbot is designed to understand and respond to a wide range of user queries, providing intelligent and context-aware interactions.
 
 ## Features
 - **Natural Language Processing: Utilizes LLMs to understand and generate human-like responses.**
