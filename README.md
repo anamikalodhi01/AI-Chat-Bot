@@ -33,6 +33,7 @@ This project implements a chatbot that can interact with users in a natural and 
 
 
 ## Linkedin Profile link 
+https://www.linkedin.com/posts/anamika-lodhi-b3a9a2289_ai-generativeai-geminipro-activity-7222599419144155136-kslR?utm_source=share&utm_medium=member_desktop
 
 
 
