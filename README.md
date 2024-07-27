@@ -17,37 +17,11 @@ Natural Language Processing: Utilizes Google Gemini API for understanding and ge
 Interactive Interface: Built with streamlit for a responsive and user-friendly experience.
 Environment Configuration: Uses python-dotenv for managing environment variables securely.
 
-
-## Installation
-
-**Clone the Repository**
-   ```bash
-   git clone <https://github.com/MuktiMishra/GeminiGizmo.git>
-   cd <repository-directory>
-
-**Set Up a Virtual Environment**
-   ```bash
-   python -m venv env
-   source env/bin/activate  # On Windows use `env\Scripts\activate`
-
-**Install Dependencies**
-   ```bash
-   pip install -r requirements.txt
- 
-**Set Up Environment Variables**
-    Create a .env file in the project root directory.
-    Add your Gemini Pro API key to the .env file:
-    GEMINI_API_KEY=your_api_key_here
-
-## Usage
- 
-1. **Run the Streamlit App**
-    ```bash
-    streamlit run app.py
-
-2. **Interact with the Chatbot**
+## Interact with the Chatbot
    Open your web browser and go to http://localhost:8501/
    Type your question in the input field and click "Submit" to get a response from the chatbot.
+
+## Screen Recording of the ChatBot
 
 
 
