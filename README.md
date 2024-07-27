@@ -18,7 +18,7 @@ This project implements a chatbot that can interact with users in a natural and 
 
 1. **Clone the Repository**
    ```bash
-   git clone <https://github.com/MuktiMishra/GeminiGizmo.git>
+   git clone <https://github.com/anamikalodhi01/AI-Chat-Bot.git>
    cd <repository-directory>
 
 2. **Set Up a Virtual Environment**
