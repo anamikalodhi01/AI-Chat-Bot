@@ -42,7 +42,7 @@
     streamlit run app.py
 
 2. **Interact with the Chatbot**
-   Open your web browser and go to http://localhost:8501.
+   Open your web browser and go to http://localhost:8502.
    Type your question in the input field and click "Submit" to get a response from the chatbot.
 
 ## Linkedin Post link 
