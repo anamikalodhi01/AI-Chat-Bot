@@ -4,10 +4,10 @@
 This project implements a chatbot that can interact with users in a natural and coherent manner using a large language model (LLM) such as Gemini Pro. The chatbot is designed to understand and respond to a wide range of user queries, providing intelligent and context-aware interactions.
 
 ## Installed modules 
-**streamlit**
-**os**
-**python-dotenv**
-**google-generativeai**
+- **streamlit**
+- **os**
+- **python-dotenv**
+- **google-generativeai**
 
 ## Features
 **Natural Language Processing: Utilizes LLMs to understand and generate human-like responses.**
