@@ -39,7 +39,7 @@ This project implements a chatbot that can interact with users in a natural and 
  
 1. **Run the Streamlit App**
     ```bash
-    streamlit run gemini_chatbot.py
+    streamlit run app.py
 
 2. **Interact with the Chatbot**
    Open your web browser and go to http://localhost:8501.
