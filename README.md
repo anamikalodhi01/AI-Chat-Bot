@@ -1,4 +1,4 @@
-# AI-Chat-Bot
+# Chat-Bot using LLMs
 
 ## Overview
 This project implements a chatbot using the Gemini Pro API, allowing users to interact with a large language model. The chatbot is designed to respond to user queries in a natural and coherent manner. The frontend is built using Streamlit.
@@ -7,7 +7,7 @@ This project implements a chatbot using the Gemini Pro API, allowing users to in
 The GenAI ChatBot is designed to leverage the power of Google's Gemini API to provide intelligent and context-aware responses. By integrating with streamlit, the ChatBot offers a user-friendly interface that allows seamless interaction with users.
 
 ## Installed modules 
-streamlit
+**streamlit**
 os
 python-dotenv
 google-generativeai
