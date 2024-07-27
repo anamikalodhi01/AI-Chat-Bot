@@ -30,7 +30,7 @@ This project implements a chatbot that can interact with users in a natural and 
 - **The chatbot will respond based on the input and context of the dialogue.**
 
 ## Screen Recording of the ChatBot
-
+https://github.com/user-attachments/assets/6dec9e44-e408-4a01-b74e-5cf1e60f23dc
 
 ## Linkedin Profile link 
 https://www.linkedin.com/posts/anamika-lodhi-b3a9a2289_ai-generativeai-geminipro-activity-7222599419144155136-kslR?utm_source=share&utm_medium=member_desktop
