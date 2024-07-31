@@ -30,19 +30,19 @@
    ```bash
    pip install -r requirements.txt
  
-4. **Set Up Environment Variables**
-    Create a .env file in the project root directory.
-    Add your Gemini Pro API key to the .env file:
-    GEMINI_API_KEY=your_api_key_here
+4. **Set up environment variables**:
+    Create a `.env` file in the root directory and add your Google API key:
+    ```
+    GOOGLE_API_KEY=your_google_api_key
+    ```
 
-## Usage
- 
-1. **Run the Streamlit App**
+5. **Run the application**:
     ```bash
     streamlit run app.py
+    ```
 
-2. **Interact with the Chatbot**
-   Open your web browser and go to http://localhost:8502.
+## Usage
+   Open the application in your browser.
    Type your question in the input field and click "Submit" to get a response from the chatbot.
 
 ## Linkedin Post link 
