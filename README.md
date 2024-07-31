@@ -19,7 +19,7 @@
 1. **Clone the Repository**
    ```bash
    git clone <https://github.com/anamikalodhi01/AI-Chat-Bot.git>
-   cd <repository-directory>
+   cd AI-Chat-Bot
 
 2. **Set Up a Virtual Environment**
    ```bash
